@@ -1,1 +1,1 @@
-# drum_machine
+This was an experiment with the Adafruit Circuit Playground Express and an old toy drum machine my kids didn't play with anymore. I was able to detect drum hits and play a sound. I thought it would be cool to replace the guts of the toy with a microcontroller so that I could have several different drum set sounds and use it as a drum sequencer for whatever. The piezo sensors in the drums are pretty cool and I think I have another idea for where I want to take this project, but it is tabled for now.
